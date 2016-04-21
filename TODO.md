@@ -1,0 +1,7 @@
+- Manifest file formats
+  - [Virtual data collections](http://ntrs.nasa.gov/search.jsp?R=20150023425) formats
+  - [Datacasting](http://datacasting.jpl.nasa.gov/) feeds
+  - Anything that looks like a URL
+- Distribution
+  - As a [PEX](https://pex.readthedocs.org/en/latest/index.html)
+  - Pip / pypi
